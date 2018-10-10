@@ -15,7 +15,7 @@ Game Guide:
 You start off in a town. Go left to exit the town. You'll then appear outside. Follow the road. Go left and you'll 
 find a building. Skeleton monsters will begin to appear. To enter the building, you have to kill 10 skeleton monsters. 
 Point the mouses arrow in the direction you want to attack. Left click to use your basic attack. Right click to use 
-a more powerful attack. You'll hear a sound letting you know that the door is open. Go inside to fight a boss monster. 
+a more powerful attack. You'll hear a Legend of Zelda sound when you've completed the task. Go inside to fight a boss monster. 
 Once you defeat it, walk to the left to exit. 
 
 
