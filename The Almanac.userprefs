@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Finn\Scripts\Weapon_Collider.cs">
+    <Files>
+      <File FileName="Assets\Enemy\BossMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemy\BossAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemy\BossHealth.cs" Line="84" Column="48" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="90" Column="3" />
+      <File FileName="Assets\Finn\Scripts\PlayerController.cs" Line="97" Column="31" />
+      <File FileName="Assets\Finn\Scripts\Weapon_Collider.cs" Line="61" Column="41" />
+      <File FileName="Assets\Luna\Edscript\CastSpell.cs" Line="47" Column="29" />
+      <File FileName="Assets\Edscript\bulletScript.cs" Line="26" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

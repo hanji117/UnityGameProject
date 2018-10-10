@@ -1,0 +1,76 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\USERR\Desktop\Almanac\The Almanac\TheAlmanac_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The tree Larch01 collider must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Pine01 (collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 4.665444 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e20 -> priority: 1 
+  Thread -> id: 2340 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.582603 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1023.
+Total: 1.966104 ms (FindLiveObjects: 0.060350 ms CreateObjectMapping: 0.022990 ms MarkObjects: 0.385913 ms  DeleteObjects: 1.492334 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.767169 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2729.
+Total: 1.578549 ms (FindLiveObjects: 0.110847 ms CreateObjectMapping: 0.045981 ms MarkObjects: 0.425325 ms  DeleteObjects: 0.996394 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+The tree Larch01 collider must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Pine01 (collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 1.896722 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 1403.
+Total: 5.427417 ms (FindLiveObjects: 0.053781 ms CreateObjectMapping: 0.028738 ms MarkObjects: 0.378523 ms  DeleteObjects: 4.965963 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.203118 ms
+
+Unloading 279 unused Assets to reduce memory usage. Loaded Objects now: 1226.
+Total: 4.173199 ms (FindLiveObjects: 0.070613 ms CreateObjectMapping: 0.028327 ms MarkObjects: 0.356764 ms  DeleteObjects: 3.716261 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.145513 ms
+
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 19.466036 ms (FindLiveObjects: 0.045160 ms CreateObjectMapping: 0.027917 ms MarkObjects: 0.162986 ms  DeleteObjects: 19.228739 ms)
+

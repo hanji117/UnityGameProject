@@ -1,0 +1,3015 @@
+fileFormatVersion: 2
+guid: 0d7ade52425f44bc09acb06bb6553266
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body_002_in_the_2nd_layer
+    100004: body_002_in_the_2nd_layer_MeshPart0
+    100006: body_002_in_the_2nd_layer_MeshPart1
+    100008: body_002_in_the_2nd_layer_MeshPart10
+    100010: body_002_in_the_2nd_layer_MeshPart11
+    100012: body_002_in_the_2nd_layer_MeshPart2
+    100014: body_002_in_the_2nd_layer_MeshPart3
+    100016: body_002_in_the_2nd_layer_MeshPart4
+    100018: body_002_in_the_2nd_layer_MeshPart5
+    100020: body_002_in_the_2nd_layer_MeshPart6
+    100022: body_002_in_the_2nd_layer_MeshPart7
+    100024: body_002_in_the_2nd_layer_MeshPart8
+    100026: body_002_in_the_2nd_layer_MeshPart9
+    100028: chest_bone
+    100030: Control_knee_target_L
+    100032: Control_knee_target_R
+    100034: dress_light_blue
+    100036: endOfScarf_L
+    100038: endOfScarf_R
+    100040: foot_L
+    100042: foot_R
+    100044: hand_L
+    100046: hand_L_001
+    100048: hand_R
+    100050: hand_R_001
+    100052: head
+    100054: hip_L
+    100056: hip_R
+    100058: indexFinger_01_L
+    100060: indexFinger_01_R
+    100062: indexFinger_02_L
+    100064: indexFinger_02_R
+    100066: indexFinger_03_L
+    100068: indexFinger_03_R
+    100070: knee_L
+    100072: knee_R
+    100074: line_
+    100076: lower_arm_L
+    100078: lower_arm_R
+    100080: lower_leg_L
+    100082: lower_leg_R
+    100084: middleFinger_01_L
+    100086: middleFinger_01_R
+    100088: middleFinger_02_L
+    100090: middleFinger_02_R
+    100092: middleFinger_03_L
+    100094: middleFinger_03_R
+    100096: midScarf_L
+    100098: midScarf_R
+    100100: neck
+    100102: origin_circle_2nd
+    100104: origin_cirle
+    100106: pelvis
+    100108: pinky_01_L
+    100110: pinky_01_R
+    100112: pinky_02_L
+    100114: pinky_02_R
+    100116: pinky_03_L
+    100118: pinky_03_R
+    100120: ringFinger_01_L
+    100122: ringFinger_01_R
+    100124: ringFinger_02_L
+    100126: ringFinger_02_R
+    100128: ringFinger_03_L
+    100130: ringFinger_03_R
+    100132: scarf
+    100134: shoulder_L
+    100136: shoulder_R
+    100138: stomache_area_bone
+    100140: //RootNode
+    100142: the_circle_used_for_the_leg
+    100144: thumb_01_L
+    100146: thumb_01_R
+    100148: thumb_02_L
+    100150: thumb_02_R
+    100152: thumb_03_L
+    100154: thumb_03_R
+    100156: toe_L
+    100158: toe_R
+    100160: underwear
+    100162: upper_arm_L
+    100164: upper_arm_R
+    100166: upper_leg_L
+    100168: upper_leg_R
+    100170: upperArmScarf_L
+    100172: upperArmScarf_R
+    400000: Armature
+    400002: body_002_in_the_2nd_layer
+    400004: body_002_in_the_2nd_layer_MeshPart0
+    400006: body_002_in_the_2nd_layer_MeshPart1
+    400008: body_002_in_the_2nd_layer_MeshPart10
+    400010: body_002_in_the_2nd_layer_MeshPart11
+    400012: body_002_in_the_2nd_layer_MeshPart2
+    400014: body_002_in_the_2nd_layer_MeshPart3
+    400016: body_002_in_the_2nd_layer_MeshPart4
+    400018: body_002_in_the_2nd_layer_MeshPart5
+    400020: body_002_in_the_2nd_layer_MeshPart6
+    400022: body_002_in_the_2nd_layer_MeshPart7
+    400024: body_002_in_the_2nd_layer_MeshPart8
+    400026: body_002_in_the_2nd_layer_MeshPart9
+    400028: chest_bone
+    400030: Control_knee_target_L
+    400032: Control_knee_target_R
+    400034: dress_light_blue
+    400036: endOfScarf_L
+    400038: endOfScarf_R
+    400040: foot_L
+    400042: foot_R
+    400044: hand_L
+    400046: hand_L_001
+    400048: hand_R
+    400050: hand_R_001
+    400052: head
+    400054: hip_L
+    400056: hip_R
+    400058: indexFinger_01_L
+    400060: indexFinger_01_R
+    400062: indexFinger_02_L
+    400064: indexFinger_02_R
+    400066: indexFinger_03_L
+    400068: indexFinger_03_R
+    400070: knee_L
+    400072: knee_R
+    400074: line_
+    400076: lower_arm_L
+    400078: lower_arm_R
+    400080: lower_leg_L
+    400082: lower_leg_R
+    400084: middleFinger_01_L
+    400086: middleFinger_01_R
+    400088: middleFinger_02_L
+    400090: middleFinger_02_R
+    400092: middleFinger_03_L
+    400094: middleFinger_03_R
+    400096: midScarf_L
+    400098: midScarf_R
+    400100: neck
+    400102: origin_circle_2nd
+    400104: origin_cirle
+    400106: pelvis
+    400108: pinky_01_L
+    400110: pinky_01_R
+    400112: pinky_02_L
+    400114: pinky_02_R
+    400116: pinky_03_L
+    400118: pinky_03_R
+    400120: ringFinger_01_L
+    400122: ringFinger_01_R
+    400124: ringFinger_02_L
+    400126: ringFinger_02_R
+    400128: ringFinger_03_L
+    400130: ringFinger_03_R
+    400132: scarf
+    400134: shoulder_L
+    400136: shoulder_R
+    400138: stomache_area_bone
+    400140: //RootNode
+    400142: the_circle_used_for_the_leg
+    400144: thumb_01_L
+    400146: thumb_01_R
+    400148: thumb_02_L
+    400150: thumb_02_R
+    400152: thumb_03_L
+    400154: thumb_03_R
+    400156: toe_L
+    400158: toe_R
+    400160: underwear
+    400162: upper_arm_L
+    400164: upper_arm_R
+    400166: upper_leg_L
+    400168: upper_leg_R
+    400170: upperArmScarf_L
+    400172: upperArmScarf_R
+    2300000: body_002_in_the_2nd_layer_MeshPart0
+    2300002: body_002_in_the_2nd_layer_MeshPart1
+    2300004: body_002_in_the_2nd_layer_MeshPart10
+    2300006: body_002_in_the_2nd_layer_MeshPart11
+    2300008: body_002_in_the_2nd_layer_MeshPart2
+    2300010: body_002_in_the_2nd_layer_MeshPart3
+    2300012: body_002_in_the_2nd_layer_MeshPart4
+    2300014: body_002_in_the_2nd_layer_MeshPart5
+    2300016: body_002_in_the_2nd_layer_MeshPart6
+    2300018: body_002_in_the_2nd_layer_MeshPart7
+    2300020: body_002_in_the_2nd_layer_MeshPart8
+    2300022: body_002_in_the_2nd_layer_MeshPart9
+    2300024: dress_light_blue
+    2300026: line_
+    2300028: origin_circle_2nd
+    2300030: origin_cirle
+    2300032: the_circle_used_for_the_leg
+    2300034: underwear
+    3300000: body_002_in_the_2nd_layer_MeshPart0
+    3300002: body_002_in_the_2nd_layer_MeshPart1
+    3300004: body_002_in_the_2nd_layer_MeshPart10
+    3300006: body_002_in_the_2nd_layer_MeshPart11
+    3300008: body_002_in_the_2nd_layer_MeshPart2
+    3300010: body_002_in_the_2nd_layer_MeshPart3
+    3300012: body_002_in_the_2nd_layer_MeshPart4
+    3300014: body_002_in_the_2nd_layer_MeshPart5
+    3300016: body_002_in_the_2nd_layer_MeshPart6
+    3300018: body_002_in_the_2nd_layer_MeshPart7
+    3300020: body_002_in_the_2nd_layer_MeshPart8
+    3300022: body_002_in_the_2nd_layer_MeshPart9
+    3300024: dress_light_blue
+    3300026: line_
+    3300028: origin_circle_2nd
+    3300030: origin_cirle
+    3300032: the_circle_used_for_the_leg
+    3300034: underwear
+    4300000: scarf
+    4300002: body_002_in_the_2nd_layer_MeshPart0
+    4300004: body_002_in_the_2nd_layer_MeshPart1
+    4300006: body_002_in_the_2nd_layer_MeshPart2
+    4300008: body_002_in_the_2nd_layer_MeshPart3
+    4300010: body_002_in_the_2nd_layer_MeshPart4
+    4300012: body_002_in_the_2nd_layer_MeshPart5
+    4300014: body_002_in_the_2nd_layer_MeshPart6
+    4300016: body_002_in_the_2nd_layer_MeshPart7
+    4300018: body_002_in_the_2nd_layer_MeshPart8
+    4300020: body_002_in_the_2nd_layer_MeshPart9
+    4300022: body_002_in_the_2nd_layer_MeshPart10
+    4300024: body_002_in_the_2nd_layer_MeshPart11
+    4300026: underwear
+    4300028: line_
+    4300030: origin_circle_2nd
+    4300032: origin_cirle
+    4300034: the_circle_used_for_the_leg
+    4300036: dress_light_blue
+    7400000: Default Take
+    7400002: ArmatureAction
+    7400004: ArmatureAction_001
+    7400006: ArmatureAction_002
+    7400008: cast_spell_attack
+    7400010: idle_state
+    7400012: jump
+    7400014: jump2
+    7400016: run
+    9500000: //RootNode
+    13700000: scarf
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _uv_map_to_texture
+    second: {fileID: 2100000, guid: bd50424d362b1234298df7e75a2901f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: b4f521f6a990e3c4e86852033e91b692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: fe06dd7e97df4894b916e0278c30af2f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'cast_spell_attack' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'hip_L' has translation animation that will
+      be discarded.\n\t'hip_R' has translation animation that will be discarded.\n\t'stomache_area_bone'
+      has translation animation that will be discarded.\n\nClip 'jump' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'hip_L' has translation animation
+      that will be discarded.\n\t'hip_R' has translation animation that will be discarded.\n\t'stomache_area_bone'
+      has translation animation that will be discarded.\n\nClip 'jump2' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'hip_L' has translation animation
+      that will be discarded.\n\t'hip_R' has translation animation that will be discarded.\n\t'stomache_area_bone'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction_001
+      takeName: ArmatureAction_001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction_002
+      takeName: ArmatureAction_002
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cast_spell_attack
+      takeName: cast_spell_attack
+      firstFrame: 1
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_state
+      takeName: idle_state
+      firstFrame: 1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: jump
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump2
+      takeName: jump2
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/Control_knee_target_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/knee_L
+        weight: 0
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L
+        weight: 1
+      - path: Armature/hip_L/upper_leg_L/lower_leg_L/foot_L/toe_L
+        weight: 1
+      - path: Armature/hip_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/Control_knee_target_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/knee_R
+        weight: 0
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R
+        weight: 1
+      - path: Armature/hip_R/upper_leg_R/lower_leg_R/foot_R/toe_R
+        weight: 1
+      - path: Armature/pelvis
+        weight: 0
+      - path: Armature/stomache_area_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/neck/head
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/hand_L_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/indexFinger_03_L/indexFinger_02_L/indexFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/middleFinger_03_L/middleFinger_02_L/middleFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/pinky_03_L/pinky_02_L/pinky_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/ringFinger_03_L/ringFinger_02_L/ringFinger_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_L/upper_arm_L/lower_arm_L/hand_L/thumb_03_L/thumb_02_L/thumb_01_L
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/hand_R_001
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/indexFinger_03_R/indexFinger_02_R/indexFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/middleFinger_03_R/middleFinger_02_R/middleFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/pinky_03_R/pinky_02_R/pinky_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/ringFinger_03_R/ringFinger_02_R/ringFinger_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/shoulder_R/upper_arm_R/lower_arm_R/hand_R/thumb_03_R/thumb_02_R/thumb_01_R
+        weight: 1
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_L/midScarf_L/endOfScarf_L
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R
+        weight: 0
+      - path: Armature/stomache_area_bone/chest_bone/upperArmScarf_R/midScarf_R/endOfScarf_R
+        weight: 0
+      - path: body_002_in_the_2nd_layer
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart0
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart1
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart2
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart3
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart4
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart5
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart6
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart7
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart8
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart9
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart10
+        weight: 0
+      - path: body_002_in_the_2nd_layer/body_002_in_the_2nd_layer_MeshPart11
+        weight: 0
+      - path: dress_light_blue
+        weight: 0
+      - path: line_
+        weight: 0
+      - path: origin_circle_2nd
+        weight: 0
+      - path: origin_cirle
+        weight: 0
+      - path: scarf
+        weight: 0
+      - path: the_circle_used_for_the_leg
+        weight: 0
+      - path: underwear
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Armature
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_leg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_leg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower_leg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower_leg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: stomache_area_bone
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: chest_bone
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upper_arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower_arm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lower_arm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_03_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_01_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_03_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_02_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_01_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_03_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_01_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_03_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_01_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_03_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb_01_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_03_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: indexFinger_01_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_03_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_02_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: middleFinger_01_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_03_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ringFinger_01_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_03_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pinky_01_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: luna2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hip_L
+      parentName: Armature
+      position: {x: -0.000000029802322, y: 0, z: 2.7722938}
+      rotation: {x: 0.000000025642745, y: 0.07951062, z: 0.000000034889215, w: 0.99683404}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: upper_leg_L
+      parentName: hip_L
+      position: {x: -0.299445, y: 0.000000022607452, z: -0.000000055879354}
+      rotation: {x: 0.45866176, y: 0.53817225, z: 0.5381723, w: -0.45866165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: lower_leg_L
+      parentName: upper_leg_L
+      position: {x: -0.9606583, y: 0.000000038455553, z: 7e-15}
+      rotation: {x: -0.00015404045, y: 0.008384374, z: -0.017338494, w: 0.9998145}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: foot_L
+      parentName: lower_leg_L
+      position: {x: -1.6145058, y: 0.00000011558768, z: -1.01863e-10}
+      rotation: {x: 0.026145818, y: -0.6400018, z: -0.0072470256, w: 0.76789427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: toe_L
+      parentName: foot_L
+      position: {x: -0.3647961, y: 0.00000006565824, z: -0.00000001717126}
+      rotation: {x: 0.9982968, y: 0.052281242, z: 0.025770104, w: 0.0024677797}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: knee_L
+      parentName: upper_leg_L
+      position: {x: -0.9606583, y: 0.000000038455553, z: 7e-15}
+      rotation: {x: 0.8294217, y: -0.00000006894264, z: 0.558623, w: 0.00000010677859}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Control_knee_target_L
+      parentName: upper_leg_L
+      position: {x: -2.8068442, y: 0.00000003660474, z: -1.2028143}
+      rotation: {x: 0.004131693, y: -0.00000007763515, z: 0.9999915, w: 3.2076738e-10}
+      scale: {x: 1, y: 1, z: 0.9993154}
+    - name: hip_R
+      parentName: Armature
+      position: {x: -0, y: -2.8e-14, z: 2.7722938}
+      rotation: {x: 0.000000031029593, y: 0.99683404, z: 0.000000085744546, w: 0.07951068}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.99999994}
+    - name: upper_leg_R
+      parentName: hip_R
+      position: {x: -0.29944497, y: 0.000000022607452, z: 0.00000027939677}
+      rotation: {x: -0.45866174, y: 0.53817225, z: 0.53817254, w: 0.45866162}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: lower_leg_R
+      parentName: upper_leg_R
+      position: {x: -0.96065825, y: 0.00000010225925, z: 3e-15}
+      rotation: {x: 0.00015419046, y: 0.008384377, z: 0.017338486, w: 0.9998145}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: foot_R
+      parentName: lower_leg_R
+      position: {x: -1.6145058, y: 0.00000014525358, z: -0.000000002670276}
+      rotation: {x: -0.02863464, y: -0.64002186, z: 0.005172657, w: 0.7678055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: toe_R
+      parentName: foot_R
+      position: {x: -0.3647961, y: 0.00000002689194, z: -0.000000003958121}
+      rotation: {x: 0.99829704, y: -0.052570354, z: 0.025175432, w: 0.002384797}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_R
+      parentName: upper_leg_R
+      position: {x: -0.96065825, y: 0.00000010225925, z: 3e-15}
+      rotation: {x: 0.8294217, y: -0.00000002867114, z: 0.558623, w: -0.00000040310542}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: Control_knee_target_R
+      parentName: upper_leg_R
+      position: {x: -2.806844, y: 0.00000079360274, z: -1.2028143}
+      rotation: {x: 0.0041316934, y: 0.000000017008, z: 0.9999915, w: -7.027238e-11}
+      scale: {x: 0.99999994, y: 1, z: 0.9993154}
+    - name: pelvis
+      parentName: Armature
+      position: {x: -0, y: 0, z: 2.7722938}
+      rotation: {x: 0.50000006, y: 0.49999997, z: -0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: stomache_area_bone
+      parentName: Armature
+      position: {x: -0, y: 0, z: 3.2823112}
+      rotation: {x: 0.50000006, y: 0.49999997, z: -0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: chest_bone
+      parentName: stomache_area_bone
+      position: {x: -0.35248137, y: 0.000000026611616, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: neck
+      parentName: chest_bone
+      position: {x: -0.6675532, y: 0.000000050398853, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: neck
+      position: {x: -0.1780839, y: 0.000000013444946, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_L
+      parentName: chest_bone
+      position: {x: -0.6675532, y: 0.000000050398853, z: 0}
+      rotation: {x: -0.4106714, y: -0.57562923, z: 0.5756293, w: 0.4106714}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: upper_arm_L
+      parentName: shoulder_L
+      position: {x: -0.3199131, y: 0.000000024152753, z: -0.00000023841858}
+      rotation: {x: -0.012307746, y: 0.15085769, z: 0.0024897156, w: 0.9884758}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: lower_arm_L
+      parentName: upper_arm_L
+      position: {x: -0.76915747, y: 0.000000077299774, z: 0.00000009987889}
+      rotation: {x: 0.0072313864, y: 0.031735234, z: 0.015642954, w: 0.99934775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_L
+      parentName: lower_arm_L
+      position: {x: -0.7975913, y: 0.000000063329935, z: 0.0000001268927}
+      rotation: {x: -0.20156804, y: -0.08483966, z: 0.01681207, w: 0.97564846}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: hand_L_001
+      parentName: hand_L
+      position: {x: -0.14919285, y: -0.000000029802322, z: -0.00000010803342}
+      rotation: {x: 0.6687021, y: -0.033362027, z: 0.74040234, w: 0.059404194}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1}
+    - name: middleFinger_03_L
+      parentName: hand_L
+      position: {x: -0.14919285, y: -0.000000029802322, z: -0.00000010803342}
+      rotation: {x: 0.055472516, y: -0.062023625, z: -0.050830513, w: 0.9952347}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: middleFinger_02_L
+      parentName: middleFinger_03_L
+      position: {x: -0.0790948, y: 0.000000014901161, z: 0.000000035390258}
+      rotation: {x: -0.06441611, y: -0.03947299, z: -0.0028413516, w: 0.9971382}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: middleFinger_01_L
+      parentName: middleFinger_02_L
+      position: {x: -0.071792625, y: -0.000000029802322, z: 0.000000044703484}
+      rotation: {x: -0.0004472666, y: -0.09709959, z: -0.033227753, w: 0.9947198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ringFinger_03_L
+      parentName: hand_L
+      position: {x: -0.15501206, y: 0.04031282, z: 0.0036003124}
+      rotation: {x: -0.027778627, y: -0.03251311, z: -0.07387429, w: 0.99635035}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: ringFinger_02_L
+      parentName: ringFinger_03_L
+      position: {x: -0.06493772, y: 0.000000018626451, z: 0.000000016763806}
+      rotation: {x: 0.0095399385, y: -0.038793236, z: 0.007205771, w: 0.9991757}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: ringFinger_01_L
+      parentName: ringFinger_02_L
+      position: {x: -0.062190652, y: -0.000000022351742, z: -0.000000048428774}
+      rotation: {x: 0.021755207, y: -0.17906523, z: 0.0008987256, w: 0.98359627}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: pinky_03_L
+      parentName: hand_L
+      position: {x: -0.15052839, y: 0.07074405, z: 0.01775116}
+      rotation: {x: -0.11101391, y: -0.016665027, z: -0.074885175, w: 0.9908534}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: pinky_02_L
+      parentName: pinky_03_L
+      position: {x: -0.054117598, y: -0.000000033527613, z: 0.00000002142042}
+      rotation: {x: -0.072968826, y: -0.037686475, z: -0.00080856605, w: 0.99662167}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: pinky_01_L
+      parentName: pinky_02_L
+      position: {x: -0.05442487, y: 0.00000006984919, z: -0.000000037252903}
+      rotation: {x: -0.008743196, y: -0.19905156, z: -0.01912652, w: 0.9797633}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: indexFinger_03_L
+      parentName: hand_L
+      position: {x: -0.15024368, y: -0.049509242, z: -0.012533046}
+      rotation: {x: 0.21774039, y: -0.08057092, z: -0.016537964, w: 0.97253484}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999998}
+    - name: indexFinger_02_L
+      parentName: indexFinger_03_L
+      position: {x: -0.067736395, y: 0.000000029802322, z: 0.000000005587935}
+      rotation: {x: -0.04298477, y: -0.038407728, z: 0.0028647175, w: 0.9983331}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: indexFinger_01_L
+      parentName: indexFinger_02_L
+      position: {x: -0.058741238, y: 0.00000002705201, z: 0.00000014482066}
+      rotation: {x: 0.009309253, y: -0.09027297, z: 0.010361858, w: 0.9958197}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: thumb_03_L
+      parentName: hand_L
+      position: {x: -0.07650887, y: -0.074673474, z: -0.057030298}
+      rotation: {x: 0.6549411, y: 0.064946674, z: 0.33073884, w: 0.67634755}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: thumb_02_L
+      parentName: thumb_03_L
+      position: {x: -0.053104803, y: -0.000000059604645, z: 0.000000014901161}
+      rotation: {x: 0.16122113, y: 0.019204026, z: 0.03633647, w: 0.98606217}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: thumb_01_L
+      parentName: thumb_02_L
+      position: {x: -0.0520195, y: -0.00000005029142, z: -0.000000086613}
+      rotation: {x: 0.040472385, y: 0.12685141, z: 0.035353594, w: 0.990465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_R
+      parentName: chest_bone
+      position: {x: -0.6675532, y: 0.000000050398853, z: 0}
+      rotation: {x: 0.41067135, y: -0.5756292, z: 0.57562935, w: -0.4106715}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: upper_arm_R
+      parentName: shoulder_R
+      position: {x: -0.3199131, y: 0.000000024152751, z: 0.00000023841858}
+      rotation: {x: 0.028323986, y: -0.15079756, z: 0.0049341754, w: 0.98814654}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: lower_arm_R
+      parentName: upper_arm_R
+      position: {x: -0.7691573, y: 0.00000008009374, z: -0.000000010244548}
+      rotation: {x: 0.02144312, y: -0.030720703, z: 0.017551737, w: 0.99914384}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: hand_R
+      parentName: lower_arm_R
+      position: {x: -0.7975909, y: 0.000000067055225, z: 0.00000005401671}
+      rotation: {x: -0.1925156, y: 0.07573401, z: 0.041770406, w: 0.97747505}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: hand_R_001
+      parentName: hand_R
+      position: {x: -0.149193, y: 0.000000022351742, z: -0.00000000372529}
+      rotation: {x: 0.255355, y: 0.693651, z: 0.26106885, w: 0.6208745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: middleFinger_03_R
+      parentName: hand_R
+      position: {x: -0.149193, y: 0.000000022351742, z: -0.00000000372529}
+      rotation: {x: 0.052546177, y: 0.07987858, z: -0.007077173, w: 0.9953935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: middleFinger_02_R
+      parentName: middleFinger_03_R
+      position: {x: -0.07909536, y: 0.000000022351742, z: 0.00000004284084}
+      rotation: {x: -0.06844895, y: 0.0337256, z: 0.020720316, w: 0.9968691}
+      scale: {x: 1, y: 1, z: 1}
+    - name: middleFinger_01_R
+      parentName: middleFinger_02_R
+      position: {x: -0.07179243, y: 0.00000008195639, z: -0.000000007450581}
+      rotation: {x: -0.003476141, y: 0.093280025, z: 0.042793453, w: 0.9947138}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ringFinger_03_R
+      parentName: hand_R
+      position: {x: -0.15501219, y: 0.032998666, z: 0.023434531}
+      rotation: {x: -0.033134412, y: 0.07469229, z: -0.030571751, w: 0.99618703}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: ringFinger_02_R
+      parentName: ringFinger_03_R
+      position: {x: -0.06493721, y: 0.000000014901161, z: 0.000000040978193}
+      rotation: {x: -0.002919914, y: 0.021128103, z: 0.03333207, w: 0.99921674}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: ringFinger_01_R
+      parentName: ringFinger_02_R
+      position: {x: -0.06219021, y: 0.00000007846393, z: -0.000000001862645}
+      rotation: {x: -0.034170832, y: 0.120420985, z: 0.13252899, w: 0.9832432}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: pinky_03_R
+      parentName: hand_R
+      position: {x: -0.15052876, y: 0.065331414, z: 0.032429032}
+      rotation: {x: -0.10796686, y: 0.0698828, z: -0.031643763, w: 0.9911904}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: pinky_02_R
+      parentName: pinky_03_R
+      position: {x: -0.054117918, y: 0.000000018626451, z: 0.000000027008355}
+      rotation: {x: -0.107034214, y: 0.0098798275, z: 0.03637781, w: 0.99354047}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: pinky_01_R
+      parentName: pinky_02_R
+      position: {x: -0.054425232, y: -0.000000040978193, z: -0.000000011175871}
+      rotation: {x: -0.1488881, y: -0.00048446076, z: 0.1999678, w: 0.96842396}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: indexFinger_03_R
+      parentName: hand_R
+      position: {x: -0.15024431, y: -0.04579264, z: -0.022611331}
+      rotation: {x: 0.21729043, y: 0.08208181, z: 0.0052680527, w: 0.97263545}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: indexFinger_02_R
+      parentName: indexFinger_03_R
+      position: {x: -0.0677366, y: 0.000000037252903, z: 0.000000048428774}
+      rotation: {x: -0.043903694, y: 0.03851166, z: -0.00046813453, w: 0.9982931}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: indexFinger_01_R
+      parentName: indexFinger_02_R
+      position: {x: -0.05874087, y: 0.000000002590241, z: -0.00000007124618}
+      rotation: {x: 0.0024304348, y: 0.09038465, z: 0.009337481, w: 0.9958602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thumb_03_R
+      parentName: hand_R
+      position: {x: -0.07650926, y: -0.093821645, z: -0.0051054507}
+      rotation: {x: 0.71095985, y: 0.22343393, z: 0.25235096, w: 0.6171972}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: thumb_02_R
+      parentName: thumb_03_R
+      position: {x: -0.053104617, y: 0, z: 0.000000074505806}
+      rotation: {x: 0.14082699, y: 0.0289147, z: -0.0291992, w: 0.98918104}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: thumb_01_R
+      parentName: thumb_02_R
+      position: {x: -0.052019812, y: -0.000000045634806, z: 0.000000103609636}
+      rotation: {x: -0.06915495, y: 0.12752673, z: -0.032834046, w: 0.9888764}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: upperArmScarf_L
+      parentName: chest_bone
+      position: {x: -0.66211104, y: -0.27585745, z: -0.17384598}
+      rotation: {x: 0.09669185, y: 0.974842, z: 0.012553433, w: -0.20044002}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000006}
+    - name: midScarf_L
+      parentName: upperArmScarf_L
+      position: {x: -0.38684624, y: -0.00000007171184, z: -0.00000000372529}
+      rotation: {x: 0.0144523615, y: -0.1747542, z: -0.08577199, w: 0.9807626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: endOfScarf_L
+      parentName: midScarf_L
+      position: {x: -0.6563534, y: 0.000000006752089, z: -0.000000002270099}
+      rotation: {x: -0.008978803, y: 0.014031028, z: 0.15385598, w: 0.9879529}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: upperArmScarf_R
+      parentName: chest_bone
+      position: {x: -0.46172166, y: 0.1570901, z: -0.24387798}
+      rotation: {x: -0.046540357, y: 0.9915743, z: 0.027585054, w: -0.11770094}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.000003}
+    - name: midScarf_R
+      parentName: upperArmScarf_R
+      position: {x: -0.19385344, y: 0.000000007450581, z: -0.00000015227124}
+      rotation: {x: 0.03895627, y: -0.08921443, z: -0.08295925, w: 0.9917868}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: endOfScarf_R
+      parentName: midScarf_R
+      position: {x: -0.60347563, y: -0.00000000349246, z: -0.000000004976755}
+      rotation: {x: -0.022505557, y: -0.04347548, z: -0.08188385, w: 0.9954388}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: body_002_in_the_2nd_layer
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0.83791476, z: -0.8671606}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart0
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart1
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart2
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart3
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart4
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart5
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart6
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart7
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart8
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart9
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart10
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body_002_in_the_2nd_layer_MeshPart11
+      parentName: body_002_in_the_2nd_layer
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dress_light_blue
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: line_
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: origin_circle_2nd
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: origin_cirle
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: scarf
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: -0.10941841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: the_circle_used_for_the_leg
+      parentName: luna2(Clone)
+      position: {x: -0.2651763, y: -0.12578714, z: 0.000000005498331}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.1940262, y: 0.1940262, z: 0.1940262}
+    - name: underwear
+      parentName: luna2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
