@@ -10,7 +10,7 @@ It's at the bottom of the home page. You will then be directed to a google drive
 This executable file will only play on a pc.
 
 Game configuration:
-Before you begin to play a window will pop up asking you to select what screen resolution and graphics you want. 
+Before you begin to play, a window will pop up asking you to select what screen resolution and graphics you want. 
 I recommend selecting 1650 * 1050 for screen resolution, click the windowed box, and select "good" for graphics 
 quality. This helps avoid lag.
 
